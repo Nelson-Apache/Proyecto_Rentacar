@@ -149,3 +149,4 @@ Después de iniciar el proyecto con `.\start.ps1`:
 
 ## 🤝 Soporte
 Para dudas o problemas, abre un issue en el repositorio.
+modificacion
